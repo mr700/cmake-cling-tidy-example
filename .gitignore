@@ -1,0 +1,55 @@
+# Project Specific #
+####################
+/build
+
+# Backup files #
+################
+*~
+*.bak
+*.new
+*.old
+*.orig
+*.save
+*.tmp
+
+# Compiled source #
+###################
+*.class
+*.com
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages and archives #
+#########################
+*.7z
+*.bz2
+*.deb
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.rpm
+*.tar
+*.tbz
+*.tbz2
+*.tgz
+*.xz
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.mysql
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store*
+.~lock*
+ehthumbs.db
+Icon?
+Thumbs.db
